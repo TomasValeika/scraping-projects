@@ -1,1 +1,4 @@
 .venv
+__init__*
+cvbankas.cpy*
+settings.cpy*
